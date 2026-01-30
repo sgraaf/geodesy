@@ -1,8 +1,15 @@
 # API Reference
 
-## `geodesy` Package
+## `geodesy.datum` Module
 
 ```{eval-rst}
-.. automodule:: geodesy
-   :members:
+.. automodule:: geodesy.datum
+    :members:
+```
+
+## `geodesy.ellipsoid` Module
+
+```{eval-rst}
+.. automodule:: geodesy.ellipsoid
+    :members:
 ```
